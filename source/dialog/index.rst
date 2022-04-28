@@ -9,15 +9,6 @@ Welcome to IDRR_doc's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-      dialog.md
+      dialog
 
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 

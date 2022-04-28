@@ -9,15 +9,5 @@ Welcome to IDRR_doc's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-      summarization.md
-
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+      summarization
 
