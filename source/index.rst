@@ -9,7 +9,7 @@ Welcome to IDRR_doc's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   ft.md
+      ft.md
 
 
 
@@ -19,4 +19,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* :re
+
