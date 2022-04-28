@@ -8,8 +8,13 @@ Welcome to IDRR_doc's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-      ft.md
+   .. :caption: Contents:
+   ..    ft.md
+   :glob:
+   
+    beginning/index
+    base/index
+    tool/index
 
 
 
