@@ -9,6 +9,7 @@ Welcome to IDRR_doc's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-      dialog
+      
+   dialog
 
 
