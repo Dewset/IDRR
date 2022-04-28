@@ -11,9 +11,9 @@ Welcome to IDRR_doc's documentation!
    :caption: Contents:
    
    ft.md
-   beginning/index
-   base/index
-   tool/index
+   dialog/index
+   discourse/index
+   summarization/index
 
 
 

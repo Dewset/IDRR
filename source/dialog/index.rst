@@ -9,11 +9,8 @@ Welcome to IDRR_doc's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
-   ft.md
-   dialog/index
-   discourse/index
-   summarization/index
+      dialog.md
+
 
 
 
